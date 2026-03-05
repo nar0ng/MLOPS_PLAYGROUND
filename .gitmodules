@@ -1,0 +1,3 @@
+[submodule "01_upstream"]
+	path = 01_upstream
+	url = https://github.com/paiml/practical-mlops-book.git
